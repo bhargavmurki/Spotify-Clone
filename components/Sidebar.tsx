@@ -41,7 +41,7 @@ const Sidebar: React.FC<SidebarProps> = ({
                     hidden
                     md:flex
                     flex-col
-                    gap-y-4
+                    gap-y-2
                     bg-black
                     h-full
                     w-[300px]
