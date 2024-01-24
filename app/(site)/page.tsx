@@ -20,7 +20,7 @@ export default function Home() {
             font-semibold
             "
             >
-              Welcome Back
+              Hello there!
           </h1>
           <div 
           className="
