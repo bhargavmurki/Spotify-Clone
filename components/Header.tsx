@@ -50,14 +50,13 @@ const Header: React.FC<HeaderProps> = ({
     bg-gradient-to-b
     from-emerald-800
     p-6
-    rounded-t-lg
     `,
     className
     )}
     >
         <div className="
         w-full
-        mv-4
+        mb-4
         flex
         items-center
         justify-between
@@ -90,6 +89,7 @@ const Header: React.FC<HeaderProps> = ({
                 items-center
                 justify-center
                 hover:opacity-75
+                cursor-pointer
                 transition
                 ">
                     <RxCaretRight className="text-white" size={35} />
@@ -104,6 +104,7 @@ const Header: React.FC<HeaderProps> = ({
                 flex
                 items-center
                 justify-center
+                cursor-pointer
                 hover:opacity-75
                 transition
                 ">
@@ -117,6 +118,7 @@ const Header: React.FC<HeaderProps> = ({
                 flex
                 items-center
                 justify-center
+                cursor-pointer
                 hover:opacity-75
                 transition
                 ">
