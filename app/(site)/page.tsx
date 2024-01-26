@@ -23,7 +23,7 @@ export default async function Home() {
             className="
             text-white
             text-3xl
-            font-semibold
+            font-bold
             "
             >
               Hello there!

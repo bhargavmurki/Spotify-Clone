@@ -108,7 +108,9 @@ const Header: React.FC<HeaderProps> = ({
                 hover:opacity-75
                 transition
                 ">
-                    <HiHome className="text-black" size={20}/>
+                    <HiHome 
+                    onClick={() => router.push('/')}
+                    className="text-black" size={20}/>
                 </button>
                 <button 
                 className="
@@ -122,7 +124,9 @@ const Header: React.FC<HeaderProps> = ({
                 hover:opacity-75
                 transition
                 ">
-                    <BiSearch className="text-black" size={20}/>
+                    <BiSearch 
+                    onClick={() => router.push('/search')}
+                    className="text-black" size={20}/>
                 </button>
             </div>
             <div
