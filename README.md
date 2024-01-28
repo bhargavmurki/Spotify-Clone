@@ -1,21 +1,6 @@
-Full Stack Spotify Clone with Next.js App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
+# Full Stack Spotify Clone with Next.js App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
 
-For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
-
-
-## Features
-- Song upload
-- Stripe integration
-- Credential authentication with Supabase
-- Full responsiveness for mobile devices
-- Server error handling with react-toast
-- Play song audio
-- Favorites system
-- Playlists / Liked songs system
-- Advanced Player component
-- Stripe recurring payment integration
-- Handling relations between Server and Child components in a real-time env
-- Cancelling subscriptions
+For testing, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 ### Prerequisites
 **Node version 14.x**
