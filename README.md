@@ -3,7 +3,7 @@
 For testing, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 ### Prerequisites
-**Node version 14.x**
+*Node version 14.x*
 
 ### Clone the repo
 ```shell
